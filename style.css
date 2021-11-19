@@ -1,0 +1,16 @@
+#output{
+    
+}
+
+body {
+  background: rgb(21, 244, 255);
+  font-family: Lucida Calligraphy;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  text-decoration: underline;
+  text-align: center;
+}
